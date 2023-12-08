@@ -127,7 +127,7 @@ setTimeout(() => {
 
 ///////////////////////////////////////
 // Consuming Promises
-// Chaining Promises
+// Chaining Promises 
 // Handling Rejected Promises
 // Throwing Errors Manually
 
