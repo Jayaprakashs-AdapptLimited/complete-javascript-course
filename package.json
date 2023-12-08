@@ -1,0 +1,22 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe App",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jayaprakashs-AdapptLimited/complete-javascript-course.git"
+  },
+  "author": "Jayaprakash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jayaprakashs-AdapptLimited/complete-javascript-course/issues"
+  },
+  "homepage": "https://github.com/Jayaprakashs-AdapptLimited/complete-javascript-course#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
